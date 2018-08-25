@@ -1,0 +1,17 @@
+challenges:
+    most goals in one game, 
+    best shot-goal %, 
+    Least goals against overall
+
+the plan:
+    gain a one point lead (shot/goal % maybe)
+    and then only defend (least goals against overall?)
+
+states:
+    atba
+    push ball towards opponent's goal
+    defend
+
+todo:
+    optional:
+        local coords
